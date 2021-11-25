@@ -1,0 +1,9 @@
+joplin
+draw.io
+geogebra
+vscode
+neovim
+pycharm
+zoom
+ttyrec
+mysql
