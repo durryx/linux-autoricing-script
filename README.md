@@ -1,4 +1,4 @@
-# DANCE
+# Linux autoricing script
 l.a.s. is collection of scripts that automatically installs a minimal riced version of Xmonad with some other essential software. Currently the supported linux ditros are: Arch.
 ## Images
 ![image](dance_prew2.png)
