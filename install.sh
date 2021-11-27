@@ -1,9 +1,5 @@
 #!/bin/sh
-#     _
-#  __| | __ _ _ __   ___ ___ 
-# / _` |/ _` | '_ \ / __/ _ \
-#| (_| | (_| | | | | (_|  __/
-# \__,_|\__,_|_| |_|\___\___| by Durryx
+# l.a.s. by Durryx
 
 checkinternet(){
     # check if connection can be established
